@@ -10,5 +10,5 @@ job posting and management : where the employer can post the job in the website 
 Resume form : where the Job seekers can send or apply the resume to obtaine the job.
 ![image alt](https://github.com/RANJITHA14102004/HireHub/blob/83cf361293b6043b7e0339bd328de7a98160f37f/Screenshot%202024-11-23%20165656.png)
 
-Admin Dash board: where the admin come to know all over the process about the website and access the number of employeers, jib seekers, jobs, resumes in the current websites.
+Admin Dash board: where the admin come to know all over the process about the website and access the number of employeers, job seekers, jobs, resumes in the current websites.
 ![image alt](https://github.com/RANJITHA14102004/HireHub/blob/fb0f50b07305c96c868c42b1d9fd70098a8a2bae/Screenshot%202024-11-23%20165800.png)
